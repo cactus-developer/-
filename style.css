@@ -1,0 +1,26 @@
+p {
+font-weight: 900;
+    font-family: Pompadur, 'Comic Sans MS', cursive;
+    color: #423189;
+  font-size: 12px;
+font-size: 3em;
+text-align: center;
+}
+a{
+	text-align: center;
+}
+
+div {
+        text-align: center;
+}
+.a_1 {
+
+        text-decoration: none;
+}
+.pypa{
+     width: 100%;
+     min-height: 100;
+     background-size:100%;
+
+
+}
